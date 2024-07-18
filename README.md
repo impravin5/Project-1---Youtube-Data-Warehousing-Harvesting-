@@ -1,7 +1,7 @@
 # Project-1---Youtube-Data-Warehousing-Harvesting-
 
-#YouTube Data Harvesting and Warehousing using SQL and Streamlit
-#Overview
+## YouTube Data Harvesting and Warehousing using SQL and Streamlit
+## Overview
           This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, store it in a SQL database, and enable users to search for channel details and join tables to view data in the app. The main features of this project include:
           -Data Collection
           -Data Storage in SQL Database
