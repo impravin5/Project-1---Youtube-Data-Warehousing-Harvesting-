@@ -73,9 +73,9 @@ cursor = mydb.cursor()
 #**Video Information Extraction**:
            - Fetch video IDs from the channel's upload playlist.
            - Extract detailed information about each video and store it in the database.
-# **Comment Information Extraction**:
+#**Comment Information Extraction**:
           - Fetch comments for each video and store them in the database.
-# **Playlist Information Extraction**:
+#**Playlist Information Extraction**:
            -Fetch playlist details for the channel and store them in the database.
 #**Data Visualization and Analysis**:
           - Use Streamlit to create an interactive user interface.
