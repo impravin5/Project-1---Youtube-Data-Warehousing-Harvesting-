@@ -67,20 +67,20 @@ mydb = mysql.connector.connect(
 )
 cursor = mydb.cursor()
 
-#**Channel Information Extraction**:
+# **Channel Information Extraction**:
           - Create table for storing channel information.
           - Fetch and store channel data using YouTube API.
-#**Video Information Extraction**:
+# **Video Information Extraction**:
            - Fetch video IDs from the channel's upload playlist.
            - Extract detailed information about each video and store it in the database.
-#**Comment Information Extraction**:
+# **Comment Information Extraction**:
           - Fetch comments for each video and store them in the database.
-#**Playlist Information Extraction**:
+# **Playlist Information Extraction**:
            -Fetch playlist details for the channel and store them in the database.
-#**Data Visualization and Analysis**:
+# **Data Visualization and Analysis**:
           - Use Streamlit to create an interactive user interface.
           - Provide options to visualize data such as the number of views, likes, and comments for selected channels.
-#**Frequently Asked Questions**:
+# **Frequently Asked Questions**:
           - Predefined queries to answer common questions such as the most viewed videos, channels with the most videos, etc.
 
 ## Conclusion
