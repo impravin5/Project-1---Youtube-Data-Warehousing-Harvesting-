@@ -84,7 +84,7 @@ cursor = mydb.cursor()
 #-Frequently Asked Questions:
           - Predefined queries to answer common questions such as the most viewed videos, channels with the most videos, etc.
 
-#-Conclusion
+## Conclusion
           This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube #channel, stores it in a SQL database, and enables users to search for channel details and join tables to view data in the app
            
 
